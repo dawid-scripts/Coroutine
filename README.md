@@ -7,9 +7,11 @@
 <br>
 
 ## 💻 Script
-To run the lastest version Coroutine just execute the script below. You can also put it in the autoexecute folder in your exploit.
+To run the lastest version of Coroutine just execute the script below. You can also put it in the autoexecute folder in your exploit.
 ```
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dawid-scripts/Coroutine/main/Loader/Latest.lua"))()
+loadstring(game:HttpGetAsync(
+    "https://raw.githubusercontent.com/dawid-scripts/Coroutine/main/Loader/Latest.lua"
+))()
 ```
 
 ### ✅ Supported executors

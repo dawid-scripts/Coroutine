@@ -5,5 +5,5 @@
 	<a href="https://github.com/dawid-scripts/Coroutine/releases/latest"><img src="https://img.shields.io/github/v/release/dawid-scripts/Coroutine?include_prereleases" alt="Latest Release"/></a>
 </div>
 
-## :❤️‍🔥: Credits
+## ❤️‍🔥 Credits
 Coroutine would not be possible without these people and their work, big thanks to them!

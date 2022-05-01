@@ -1,6 +1,8 @@
-<img align="middle" width="325" height="125" src="https://cdn.discordapp.com/attachments/896346444523524136/970309976373461022/large.png"></img>
+<p align="center">
+<img align="top" width="325" height="125" src="https://cdn.discordapp.com/attachments/896346444523524136/970309976373461022/large.png"></img><br>
+</p>
 <div align="center">Script hub for Roblox, free and open-source.</div>
-<br/>
+<br>
 <div align="center">
 	<a href="https://github.com/dawid-scripts/Coroutine/releases/latest"><img src="https://img.shields.io/github/v/release/dawid-scripts/Coroutine?include_prereleases" alt="Latest Release"/></a>
 </div>

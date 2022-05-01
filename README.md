@@ -1,5 +1,6 @@
 <p align="center">
-<img align="top" width="325" height="125" src="https://cdn.discordapp.com/attachments/896346444523524136/970309976373461022/large.png"></img><br>
+    <img align="top" width="325" height="125" src="https://cdn.discordapp.com/attachments/896346444523524136/970309976373461022/large.png#gh-light-mode-only"></img><br>
+    <img align="top" width="325" height="125" src="https://cdn.discordapp.com/attachments/896346444523524136/970331632869457970/largeblack.png#gh-dark-mode-only"></img><br>
 </p>
 <div align="center">Script hub for Roblox, free and open-source.</div>
 <br>

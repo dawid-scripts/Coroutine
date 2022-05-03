@@ -1,7 +1,6 @@
 <br>
 <p align="center">
-    <img width="325" height="125" src="https://user-images.githubusercontent.com/64892994/166151049-21f53a32-dfa5-47c0-8b20-85907100c430.png#gh-dark-mode-only"></img>
-    <img width="325" height="125" src="https://user-images.githubusercontent.com/64892994/166151033-cdd72e12-832d-4ddc-9a3e-3bda3375a358.png#gh-light-mode-only"></img>
+    <img width="350" height="350" src="https://user-images.githubusercontent.com/64892994/166490571-6c3585cc-f858-43f6-848d-12037fc1166e.png"></img>
 </p>
 <div align="center">Script hub for Roblox, free and open-source.</div>
 <br>

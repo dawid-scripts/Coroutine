@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="310" height="310" src="https://user-images.githubusercontent.com/64892994/166492408-df6c4610-b47a-4984-a3b3-3a960cf29227.png"></img>
+    <img width="310" height="310" src="https://user-images.githubusercontent.com/64892994/166494301-24b214a1-f162-46ca-b266-064dce7db49b.png"></img>
 </p>
 <div align="center">Script hub for Roblox, free and open-source.</div>
 <br>
